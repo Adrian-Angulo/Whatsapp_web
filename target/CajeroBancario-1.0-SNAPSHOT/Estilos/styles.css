@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+
+header{
+    height: 50px;
+    background-color: rgb(34, 35, 35);
+}
+main{
+    background-color: aquamarine;
+}
+footer{
+    background-color: bisque;
+}
