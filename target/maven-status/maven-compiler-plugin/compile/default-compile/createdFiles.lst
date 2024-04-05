@@ -1,4 +1,12 @@
+DAO\MensajesDAO.class
+Clases\Conversacion.class
+Clases\Contacto.class
 Conexion\Incio.class
-com\estructuras\cajerobancario\JAXRSConfiguration.class
+Services\SeccionServices.class
 Conexion\Conexion.class
+DAO\SeccionDAO.class
 com\estructuras\cajerobancario\resources\JavaEE8Resource.class
+Services\MensajesServices.class
+com\estructuras\cajerobancario\JAXRSConfiguration.class
+Clases\Usuario.class
+Clases\Mensaje.class

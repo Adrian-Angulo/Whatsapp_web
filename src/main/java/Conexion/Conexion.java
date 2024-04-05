@@ -13,7 +13,7 @@ import java.sql.SQLException;
  */
 public class Conexion {
     
-    public Connection get_connection(){
+    public Connection get_Connection(){
         Connection conection = null;
         try{
             conection = DriverManager.getConnection("jdbc:mysql://localhost:3306/whatsapp_web", "root", "admin");
@@ -25,4 +25,6 @@ public class Conexion {
         }
         return conection;
     }
+
+    
 }
